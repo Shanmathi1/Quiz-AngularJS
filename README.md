@@ -1,7 +1,7 @@
 # Quiz-AngularJS
 Creating a quiz with AngularJS
 
-This is a quiz app created using features on AngularJS including :
+This is a quiz app created using features of AngularJS including :
 <br>Services and Providers: $scope, $http, $sce
 <br>Directives: ng-repeat, ng-class, ng-click, ng-show, ng-style
 
