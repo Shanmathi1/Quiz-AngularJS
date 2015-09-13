@@ -7,7 +7,7 @@ This is a quiz app created using features on AngularJS including :
 
 Screenshots of the App:
 
-<img src="https://github.com/Shanmathi1/Quiz-AngularJS/tree/master/images/1.png">
+![alt tag](http://github.com/Shanmathi1/Quiz-AngularJS/tree/master/images/1.png)
 
 ![alt tag](https://github.com/Shanmathi1/Quiz-AngularJS/tree/master/images/2.png)
 
