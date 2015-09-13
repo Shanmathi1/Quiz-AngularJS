@@ -303,7 +303,7 @@ body { background-color: #fff; padding: 20px; }
 	#myQuiz .question {
 		width: 300px;
 		top: 135px;
-		left: 330px;
+		left: 650px;
 	}
 	#myQuiz .question .txt {
 		font-size: 1.4em;
@@ -325,7 +325,7 @@ body { background-color: #fff; padding: 20px; }
 	#myQuiz .results {
 		width:260px;
 		top: 150px;
-		left: 330px;
+		left: 650px;
 	}
 	#myQuiz .results.share {
 		margin-top: 20px;
