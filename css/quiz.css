@@ -248,7 +248,7 @@ body { background-color: #fff; padding: 20px; }
 }
 
 #myQuiz .intro.inactive, #myQuiz .inactive.answered {
-	left: -1;
+	left: -1350px;
 }
 
 @media screen and (max-width: 650px){
