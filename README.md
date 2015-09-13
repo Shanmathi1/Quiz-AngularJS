@@ -9,6 +9,6 @@ Screenshots of the App:
 
 ![alt tag](images/1.png)
 
-![alt tag](https://github.com/Shanmathi1/Quiz-AngularJS/tree/master/images/2.png)
+![alt tag](images/2.png)
 
-![alt tag](https://github.com/Shanmathi1/Quiz-AngularJS/tree/master/images/3.png)
+![alt tag](images/3.png)
